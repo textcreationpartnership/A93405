@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The behaviour of John Hutchins in Newgate together with his dying words as he was going to be executed in Fleet- Street on Wednesday the 17th of December, 1684, for murdering of John Sparks, a waterman, near Serjeants-Inn, London, on Wednesday the 3d of December.</title>
+            <author>Smith, Samuel, 1620-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93405</idno>
+            <idno type="STC">Wing S4199</idno>
+            <idno type="STC">ESTC R42977</idno>
+            <idno type="EEBO-CITATION">38876061</idno>
+            <idno type="OCLC">ocm 38876061</idno>
+            <idno type="VID">152377</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93405)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152377)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2295:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The behaviour of John Hutchins in Newgate together with his dying words as he was going to be executed in Fleet- Street on Wednesday the 17th of December, 1684, for murdering of John Sparks, a waterman, near Serjeants-Inn, London, on Wednesday the 3d of December.</title>
+                  <author>Smith, Samuel, 1620-1698.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G. Croom ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signed: Samuel Smith, Ordinary.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hutchins, John, fl. 1684.</term>
+               <term>Executions and executioners --  Great Britain.</term>
+               <term>Murder --  England.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:152377:1" rendition="simple:additions"/>
+            <head>THE BEHAVIOUR OF John Hutchins, IN NEWGATE, Together with his Dying Words As he was going to be <hi>EXEC<g ref="char:V">Ʋ</g>TED</hi> in <hi>FLEET-STREET,</hi> On <hi>Wedneſday</hi> the 17th. of <hi>December,</hi> 1684. FOR Murdering of <hi>John Sparks</hi> a <hi>Waterman,</hi> near <hi>Serjeants-Inn London,</hi> on <hi>Wedneſday</hi> the 3d, of <hi>December,</hi>
+            </head>
+            <p>AT the late Seſſions of Gaol-Delivery, Held in the <hi>Old-Bayly,</hi> the 10th 11th 12th and 13th. Days of <hi>December.</hi> Amongſt 18 others that recieved ſen<g ref="char:EOLhyphen"/>tence of Death: One of the Perſons of whom we now give a more particular Account is <hi>John Hutchins,</hi> who was Indicted for the Mur<g ref="char:EOLhyphen"/>der of <hi>John Sparks,</hi> a Waterman in <hi>Fleet-ſtreet,</hi> on the 3d. of <hi>December.</hi> It appeared on his Tryal that <hi>Sparks</hi> with two of his Companions com<g ref="char:EOLhyphen"/>ing from a place where they had been about Buſineſs, met with the ſaid <hi>Hutchins,</hi> who was in Company with two Women, one of whom <hi>Sparks</hi> in way of jeſt ſtroaked on the Belly, at which <hi>Hutchins</hi> was ſo far Enraged, that he run the Deceaſed party through the Thigh, of which Wound he inſtantly Died: Upon which the ſame being proved againſt him, he was found Guilty.</p>
+            <p>After his Condemnation the ſaid <hi>John Hutchins,</hi> On <hi>Monday</hi> the 15th. of this Inſtant <hi>December,</hi> 1684. Confeſſed freely of himſelf, he had been a great Sinner in many Reſpects, But that he was not Guilty of the Murder for which he ſtands Condemned. The <hi>Ordinary</hi> replied, that he did not believe his Denyal of the Crime to be True, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ecauſe it was proved upon him by ſeveral Wit<g ref="char:EOLhyphen"/>neſſes, who being upon their Oath, Credit is to be given to them; in as much as Perjury is ſo Heinous and Soul hardning a Sin, that Repen<g ref="char:EOLhyphen"/>tance for it is very Difficult, and therefore it Hazards the Eternal Happineſs of the Soul. <hi>Hutchins</hi> replied, that tho he could not be Credit<g ref="char:EOLhyphen"/>ed in his purging of himſelf as to the Murder, yet he had many ways greatly provoked Gods An<g ref="char:EOLhyphen"/>ger againſt him. Upon this free inclination to a Confeſſion in the General, the <hi>Ordinary</hi> aſſured him that he added a deeper Malignity to all his other Sins, if he ſtood out in the denial of the Murder, and yet was conſcious in the leaſt of it. Yet he ſtill denied it, tho he was urged to deal Ingenuouſly and ſincerely, as a Dying Man, whoſe Repentance would be much hindred and queſtioned as to the Truth of it, if he proceeded to Extenuate, much more to deny the Fact. So when the <hi>Ordinary</hi> for that preſent could not pre<g ref="char:EOLhyphen"/>vail to bring him to an Acknowledgement in that Reſpect, he proceeded to enquire into his Edu<g ref="char:EOLhyphen"/>cation, Trade, and manner of his former Con<g ref="char:EOLhyphen"/>verſation. He ſaid that he was Born in a place called <hi>Abbot-Sally,</hi> ſix Miles from <hi>Taunton</hi> in <hi>Som<g ref="char:EOLhyphen"/>merſet-ſhire,</hi> Deſcended of Parents who lived in Reputation, and of a plentiful Eſtate; that he was the Eldeſt Son, but being Extravagant in his Con<g ref="char:EOLhyphen"/>verſation, he much Diminiſhed that Eſtate which was left him; that he was ſo Profuſe, that having waſted moſt or all of it, he was forced to betake himſelf to the condition of a Souldier; That he Liſted himſelf under Sir <hi>George Booth,</hi> when he appeared in Publick Service, for the Aſſerting of his Loyalty to the King; That afterward he betook himſelf to ſome other Im<g ref="char:EOLhyphen"/>ployment, but ſoon quitted it; And then fall<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:152377:2"/>into bad Acquaintance, he grew negligent of his Duty to God, and by degrees very In<g ref="char:EOLhyphen"/>temperate: That he alſo was addicted to Lying and Swearing; that he ſeldom Prayed to be kept free from the Temptations of <hi>Satan,</hi> and the Luſts of his own Heart; that he had often Pro<g ref="char:EOLhyphen"/>phaned the <hi>Sabbath</hi> Day, and by his Exceſs had deeply run himſelf into Debt, upon this he was caſt a Priſoner into the <hi>Marſhalſea,</hi> where he continued for a long time, and was relieved by the Charity of ſeveral Worthy Perſons, yet miſ<g ref="char:EOLhyphen"/>pent that which was given to him; that he had a great fit of Sickneſs, out of which if he Re<g ref="char:EOLhyphen"/>covered, he Vowed to God that he would Reform his Looſe Converſation: Yet contra<g ref="char:EOLhyphen"/>ry to his Reſolution, he continued very Vain and Regardleſs of anſwering the Goodneſs of God, in reſtoring him to his Health. This he ſaid lay as an heavy Burthen on his Conſcience, by calling to mind that Counſel and Charge of our Bleſſed <hi>Saviour</hi> to the impotent Man, who had lain at the <hi>Pool</hi> of <hi>Betheſda</hi> 38 Years <hi>Jo.</hi> 5.14. <hi>Behold thou art made Whole, Sin no more, leaſt a worſe thing come unto thee.</hi>
+            </p>
+            <p>He alſo ſaid, that he Believed that for ſin<g ref="char:EOLhyphen"/>ning againſt the clear and ſtrong Convictions of his Conſcience, God left him to run into fur<g ref="char:EOLhyphen"/>ther Wickedneſs; and that the Sentence of Death juſtly overtook him, becauſe within a few Days before he was Apprehended for the Murder, he lay under this horrid Imprecation on himſelf, <hi>that the Vengeance of God might light upon him, if he did not forbear to go into the Company of a Perſon with whom he was at Variance.</hi> Yet he did Aſſo<g ref="char:EOLhyphen"/>ciate after with that very Perſon</p>
+            <p>On <hi>Tueſday,</hi> the 16th of this Inſtant Mr. <hi>Ordi<g ref="char:EOLhyphen"/>nary,</hi> took the ſaid <hi>Hutchins</hi> apart from the reſt of the Condemned Priſoners and after Counſel and Prayer almoſt Two hours with him; He then Inquired into the frame of <hi>Hutchins</hi>'s Heart, how he ſtood prepared for his Execution on the morrow, being <hi>Wedneſday</hi> and what hope he had of a future Happy State. He anſwered only in Generalities and looſe uncertain hopes. The <hi>Ordinary</hi> told him, that It was no wonder he was doubtful of his Salvation, whereas he did not perform the conditional requiſite preparations for it: For God in ſacred Scripture affirms, that he who endeavours to hide extenuate or deny any Sin ſhall not proſper, but rather draw the ſeverity of Divine Juſtice on himſelf. The <hi>Ordinary</hi> entreated him to be open and free in the confeſſion of all his Sins, but eſpecially of the Murder he is Condemned for; he ſtill after many urgent arguments, to move him to do it ſtood out in the denyal of it; the <hi>Ordinary</hi> layd before him the clear Evidence of his Guiltyneſs as it was Traverſed at his publick Tryal yet he denied the Crime. The <hi>Ordinary</hi> Prayed for him in Particular that the Lord the Omni<g ref="char:EOLhyphen"/>ſcient Searcher of every Heart would Incline him, no longer to Dally with God, nor to preſume to deceive ſuch, who deal with him about his Eternal State. After time ſpent with him to no purpoſe, as to Confeſſing his Crime, and yet deſiring credit to be given to his denyal of it, the <hi>Ordinary</hi> acquainted of him two very ſad and dangerous Inſtances, in one <hi>Gowre</hi> and one <hi>Kirk</hi> who ſeveral times with an Horrid Im<g ref="char:EOLhyphen"/>precation, denyed the Murder of their Wives. Nay <hi>Gowre</hi> after an houre and an halfe abſolute<g ref="char:EOLhyphen"/>ly denyed the Murder of his Wife tho much perſwaſion and Prayers were uſed to move him to an Ingenuous Confeſſion, yet ſtill he denied it, till the <hi>Ordinary</hi> went out of the Cart and then being on the brink of Eternity, he durſt not ven<g ref="char:EOLhyphen"/>ture into the other World with a flat Falſity in his mouth. So, calling for the <hi>Ordinary</hi> back again, <hi>Gower</hi> at laſt Confeſſed that he Killed his Wife with his own hand. This Horrid In<g ref="char:EOLhyphen"/>ſtance of a diſſembling and hardned Heart at the very approach of death, the <hi>Ordinary</hi> ſpread before <hi>Hutchins,</hi> to Convince him of the Diabolical artifices of Sinners to palliate the Crimes with a Soul ruinating denyal of them. yet <hi>Hutchins</hi> perſiſted as before in denying, that he was Guilty of the Murder of the <hi>Waterman.</hi>
+            </p>
+            <p>Upon this, God by a very ſenſonable provi<g ref="char:EOLhyphen"/>dence moved the Heart of the Reverend D. <hi>Stillingfleet</hi> Dean of St. <hi>Pauls,</hi> to take very great paynes in perſwading <hi>Hutchins</hi> to Confeſs the whole truth Concerning his Crime. The <hi>Ordi<g ref="char:EOLhyphen"/>nary</hi> is obliged to the Dean for his great pathe<g ref="char:EOLhyphen"/>tical Aſſiſtance, yet could he not prevail with <hi>Hutchins</hi> to Confeſs the Crime. So he left him, and in a pious Compaſſion of his Stubbornneſs, deſired the <hi>Ordinary,</hi> to put it home to him at the publick Execution, Which; was this preſent <hi>Wendeſday</hi> the 17th of <hi>December,</hi> upon a Gibbet ſet up on purpoſe for him at the end of <hi>Ram Allley</hi> juſt againſt the <hi>Sign</hi> of the <hi>Three Kings</hi> in <hi>Fleetſtreet:</hi> Whether, about the Hour of 10 in the Morning he was brought in a Cart from <hi>Newgate.</hi>
+            </p>
+            <p>Upon ſight of the place of Execution; the Cri<g ref="char:EOLhyphen"/>minal continued his obſtinate denial of the Fact, nor was he obſerved to change Countenance. The <hi>Ordinary</hi> Prayed with him twice, and he likewiſe very Affectionately for himſelf. In the firſt of Mr. <hi>Ordinarys</hi> Prayers, he humbly entrea<g ref="char:EOLhyphen"/>ted the Almighty, that he would ſo encline the Heart of the poor Condemned Priſoner, that before he went out of the World he might con<g ref="char:EOLhyphen"/>feſs and own his Crime: Notwithſtanding which, he ſtill denied the ſame, laying his Salva<g ref="char:EOLhyphen"/>tion upon it that he was not Guilty, and begg'd of the <hi>Ordinary</hi> that he would Publiſh the ſame to the whole World: Tho he confeſſed he had often provoked God, and that he juſtly deſerved this ſevere Judgment,. No more could be got out of him, but an obſtinate denial of the Fact, which he ſtood in till he was turn'd off the Lad<g ref="char:EOLhyphen"/>der, about the hour of Eleven, and hung till it was full Twelve.</p>
+            <closer>
+               <dateline>Dated <date>the 17<hi>th.</hi> day of <hi>December,</hi> 1684.</date>
+               </dateline>
+               <signed>
+                  <hi>Samuel Smith,</hi> Ordinary.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G. Croom,</hi> over againſt <hi>Baynard</hi>'s Caſtle in <hi>Thames-ſtreet.</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
